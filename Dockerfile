@@ -1,0 +1,1 @@
+FROM nickknacks/azul:latest
